@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chase\\Documents\\GitHub\\TeamMike\\HousingSystem\\CodingChallenges\\Maxoccur\\Maxoccur.csproj": {}
+    "C:\\Users\\Chase\\Documents\\GitHub\\TeamMike\\HousingSystem\\CodingChallenges\\MaxOccur\\Maxoccur.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chase\\Documents\\GitHub\\TeamMike\\HousingSystem\\CodingChallenges\\Maxoccur\\Maxoccur.csproj": {
+    "C:\\Users\\Chase\\Documents\\GitHub\\TeamMike\\HousingSystem\\CodingChallenges\\MaxOccur\\Maxoccur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chase\\Documents\\GitHub\\TeamMike\\HousingSystem\\CodingChallenges\\Maxoccur\\Maxoccur.csproj",
+        "projectUniqueName": "C:\\Users\\Chase\\Documents\\GitHub\\TeamMike\\HousingSystem\\CodingChallenges\\MaxOccur\\Maxoccur.csproj",
         "projectName": "Maxoccur",
-        "projectPath": "C:\\Users\\Chase\\Documents\\GitHub\\TeamMike\\HousingSystem\\CodingChallenges\\Maxoccur\\Maxoccur.csproj",
+        "projectPath": "C:\\Users\\Chase\\Documents\\GitHub\\TeamMike\\HousingSystem\\CodingChallenges\\MaxOccur\\Maxoccur.csproj",
         "packagesPath": "C:\\Users\\Chase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chase\\Documents\\GitHub\\TeamMike\\HousingSystem\\CodingChallenges\\Maxoccur\\obj\\",
+        "outputPath": "C:\\Users\\Chase\\Documents\\GitHub\\TeamMike\\HousingSystem\\CodingChallenges\\MaxOccur\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chase\\AppData\\Roaming\\NuGet\\NuGet.Config",

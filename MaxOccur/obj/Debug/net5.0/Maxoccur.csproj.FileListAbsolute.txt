@@ -1,0 +1,16 @@
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\bin\Debug\net5.0\Maxoccur.exe
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\bin\Debug\net5.0\Maxoccur.deps.json
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\bin\Debug\net5.0\Maxoccur.runtimeconfig.json
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\bin\Debug\net5.0\Maxoccur.runtimeconfig.dev.json
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\bin\Debug\net5.0\Maxoccur.dll
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\bin\Debug\net5.0\ref\Maxoccur.dll
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\bin\Debug\net5.0\Maxoccur.pdb
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\obj\Debug\net5.0\Maxoccur.csproj.AssemblyReference.cache
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\obj\Debug\net5.0\Maxoccur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\obj\Debug\net5.0\Maxoccur.AssemblyInfoInputs.cache
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\obj\Debug\net5.0\Maxoccur.AssemblyInfo.cs
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\obj\Debug\net5.0\Maxoccur.csproj.CoreCompileInputs.cache
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\obj\Debug\net5.0\Maxoccur.dll
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\obj\Debug\net5.0\ref\Maxoccur.dll
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\obj\Debug\net5.0\Maxoccur.pdb
+C:\Users\Chase\Documents\GitHub\TeamMike\HousingSystem\CodingChallenges\Maxoccur\obj\Debug\net5.0\Maxoccur.genruntimeconfig.cache
